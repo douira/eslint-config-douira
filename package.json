@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-douira",
+  "version": "1.0.0",
+  "description": "ESLint base config used in some of my projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douira/eslint-config-douira.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "douira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/douira/eslint-config-douira/issues"
+  },
+  "homepage": "https://github.com/douira/eslint-config-douira#readme",
+  "peerDependencies": {
+    "eslint": ">= 5.7.0"
+  }
+}
