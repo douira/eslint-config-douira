@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-douira",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "ESLint base config used in some of my projects",
   "main": "index.js",
   "scripts": {
